@@ -1441,7 +1441,7 @@ graph". We then add additional steps to narrow down our search criteria.
 The other steps we need to introduce are the 'has' and 'hasLabel' steps. They can be
 used to test for a certain label or property having a certain value. We will
 introduce a lot of different Gremlin steps as we build up our Gremlin examples
-throughout this book, including may other forms of the 'has' step, but these few
+throughout this book, including many other forms of the 'has' step, but these few
 are enough to get us started. 
 
 You can refer to the official Apache TinkerPop documentation for full details on all
