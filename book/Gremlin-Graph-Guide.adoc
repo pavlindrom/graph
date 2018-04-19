@@ -1314,7 +1314,7 @@ core reason why, for many use cases, Graph databases are a very good choice and 
 be more performant than relational databases.                           
 
 Graph databases are usually a good choice for storing and modelling networks.  The
-air-routes graph is an example of a network graph a social network is of course
+air-routes graph is an example of a network graph; a social network is, of course,
 another good example. Networks can be modelled using relational databases too but as
 you explore the network and ask questions like "who are my friends' friends?" in a
 social network or "where can I fly to from here with a maximum of two stops?" things
