@@ -2067,16 +2067,16 @@ As you can see the results are the same as before.
 
 [source,groovy]
 ----
-EWR,YYZ]
-EWR,YVR]
-EWR,LHR]
-EWR,CDG]
-EWR,FRA]
-EWR,NRT]
-EWR,DEL]
-EWR,DUB]
-EWR,HKG]
-EWR,PEK]
+[EWR,YYZ]
+[EWR,YVR]
+[EWR,LHR]
+[EWR,CDG]
+[EWR,FRA]
+[EWR,NRT]
+[EWR,DEL]
+[EWR,DUB]
+[EWR,HKG]
+[EWR,PEK]
 ----
 
 Obviously there are a lot of ways that 'from' and 'to' can be used. By way of one
